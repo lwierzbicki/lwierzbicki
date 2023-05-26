@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+Profile page. Someday I will update it.
 
 <!--
 **lwierzbicki/lwierzbicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
