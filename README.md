@@ -1,6 +1,10 @@
 ### Hello there 👋
 
-Profile page. Someday I will update it.
+My name is Lukasz (Lucas). I'm living in Czech Republic. I love cats, hacking and games. 
+
+- 🔭 I’m currently working on educational content about security testing
+- 🌱 I’m currently learning time management.
+- 😄 Pronouns: he/him
 
 <!--
 **lwierzbicki/lwierzbicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
