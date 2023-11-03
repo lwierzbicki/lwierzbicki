@@ -16,10 +16,10 @@ My name is Lukasz (Lucas). I live in Czech Republic. I love cats, hacking and ga
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwierzbicki&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
 
-<a href="">
-[![Linkedin Badge](https://img.shields.io/badge/-lwierzbicki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lwierzbicki/)](https://www.linkedin.com/in/lwierzbicki/)
+<a href="https://www.linkedin.com/in/lwierzbicki/">
+ <img align="center" src="https://img.shields.io/badge/-lwierzbicki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lwierzbicki/" />
 </a>
 
-<a href="">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=lwierzbicki&color=green)
-</a>
+
