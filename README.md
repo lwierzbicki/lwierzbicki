@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Lukasz (Lucas). I'm living in Czech Republic. I love cats, hacking and games. 
+My name is Lukasz (Lucas). I live in Czech Republic. I love cats, hacking and games. 
 
 - 🔭 I’m currently working on educational content about security testing
 - 🌱 I’m currently learning time management.
@@ -9,7 +9,7 @@ My name is Lukasz (Lucas). I'm living in Czech Republic. I love cats, hacking an
 
 ## Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwierzbicki&langs_count=5)](https://github.com/lwierzbicki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwierzbicki&langs_count=5)](https://github.com/lwierzbicki/readme.md)
 
 
 <!--
