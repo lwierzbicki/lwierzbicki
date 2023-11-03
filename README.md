@@ -7,9 +7,14 @@ My name is Lukasz (Lucas). I live in Czech Republic. I love cats, hacking and ga
 - 😄 Pronouns: he/him
 
 
-## Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwierzbicki&langs_count=5)](https://github.com/lwierzbicki/readme.md)
+[![Linkedin Badge](https://img.shields.io/badge/-lwierzbicki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lwierzbicki/)](https://www.linkedin.com/in/lwierzbicki/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=lwierzbicki&color=green)
+
+#### Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwierzbicki&langs_count=5)](https://github.com/lwierzbicki/lwierzbicki/readme.md)
 
 
 <!--
