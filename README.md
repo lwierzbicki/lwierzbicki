@@ -20,4 +20,6 @@ My name is Lukasz (Lucas). I live in Czech Republic. I love cats, hacking and ga
 [![Linkedin Badge](https://img.shields.io/badge/-lwierzbicki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lwierzbicki/)](https://www.linkedin.com/in/lwierzbicki/)
 </a>
 
+<a href="">
 ![Profile Views](https://komarev.com/ghpvc/?username=lwierzbicki&color=green)
+</a>
