@@ -4,8 +4,8 @@ My name is Lukasz (Lucas). I live in Czech Republic. I love cats, hacking and ga
 
 - 🔭 I’m currently working on educational content about security testing
 - 🌱 I’m currently learning time management.
-- 😄 Pronouns: he/him
 - :computer: I'm application security engineer / penetration tester / security researcher.
+- 😄 Pronouns: he/him
 
 
 
@@ -19,9 +19,11 @@ My name is Lukasz (Lucas). I live in Czech Republic. I love cats, hacking and ga
 
 <br/>
 <a href="https://www.linkedin.com/in/lwierzbicki/">
- <img align="center" src="https://img.shields.io/badge/-lwierzbicki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lwierzbicki/" />
+  <img align="center" src="https://img.shields.io/badge/-lwierzbicki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lwierzbicki/" />
 </a>
-
+<a href="https://github.com/lwierzbicki/">
+  <img align="center" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lwierzbicki" />  
+</a>
 <a href="">
   <img align="center" src="https://komarev.com/ghpvc/?username=lwierzbicki&color=green" />
 </a>
