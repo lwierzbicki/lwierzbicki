@@ -4,7 +4,7 @@ My name is Lukasz (Lucas). I live in Czech Republic. I love cats, hacking and ga
 
 - 🔭 I’m currently working on educational content about security testing
 - 🌱 I’m currently learning time management.
-- :computer: I'm application security engineer / penetration tester / security researcher.
+- :computer: I'm an application security engineer / penetration tester / security researcher.
 - 😄 Pronouns: he/him
 
 
